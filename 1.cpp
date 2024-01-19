@@ -41,6 +41,7 @@ private:
 };
 
 int main() {
-//1 этап
+    std::srand(std::time(0));
+
     return 0;
 }
